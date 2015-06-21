@@ -4,8 +4,8 @@ Project documentation template
 **Elevator pitch:** In three sentences – what's your idea?
 
 **Screenshot:** Please make a screenshot of your project and insert it here (use markdown)
-![Android](https://github.com/wearabledata/submission/raw/master/src/android-wear.jpg "Android")
-![Apple](https://github.com/wearabledata/submission/raw/master/src/apple-watch.jpg "Apple Watch")
+![Android](https://raw.githubusercontent.com/wearabledata/submission/master/android-wear.jpg "Android")
+![Apple](https://raw.githubusercontent.com/wearabledata/submission/master/apple-watch.jpg "Apple Watch")
 
 **Type of the project:** wearable app, web app, mobile app, data visualization, your own?
 
